@@ -22,7 +22,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <artifactId>dev-toolbox-util-array</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
 
   <parent>
     <groupId>org.dev-toolbox</groupId>
@@ -33,7 +33,7 @@
   <url>https://github.com/javarno/${project.artifactId}</url>
   <scm>
     <connection>scm:git:https://github.com/javarno/${project.artifactId}.git</connection>
-    <tag>v1.0.0</tag>
+    <tag>v0.0.0</tag>
   </scm>
 
   <dependencies>
